@@ -1,0 +1,12 @@
+authentication-client
+authentication-server
+authorization-server
+bus
+feign-consumer
+ribbon-consumer
+producer
+producer-jpa
+gateway-admin
+gateway-web
+admin
+organization

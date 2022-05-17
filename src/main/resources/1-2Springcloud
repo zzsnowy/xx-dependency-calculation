@@ -1,0 +1,6 @@
+admin
+bus-server
+feign-consumer
+oauth2
+eureka-producer
+ribbon-consumer

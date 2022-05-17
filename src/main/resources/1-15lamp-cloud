@@ -1,0 +1,7 @@
+${zuihou.feign.file-server_zuihou-file-server}
+JobsTimingApi
+${zuihou.feign.msgs-server_zuihou-msgs-server}
+${zuihou.feign.oauth-server_zuihou-oauth-server}
+${zuihou.feign.order-server_zuihou-order-server}
+${zuihou.feign.tenant-server_zuihou-tenant-server}
+${zuihou.feign.authority-server_zuihou-authority-server}

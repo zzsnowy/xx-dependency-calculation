@@ -1,0 +1,5 @@
+${lamp.feign.authority-server_lamp-authority-server}
+${lamp.feign.file-server_lamp-file-server}
+${lamp.feign.msg-server_lamp-msg-server}
+${lamp.feign.oauth-server_lamp-oauth-server}
+${lamp.feign.tenant-server_lamp-tenant-server}
